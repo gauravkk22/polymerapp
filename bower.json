@@ -1,0 +1,26 @@
+{
+  "name": "testpolymer",
+  "authors": [
+    "gauravkk22@gmail.com"
+  ],
+  "description": "test application in  polymer",
+  "main": "index.html",
+  "keywords": [
+    "polymer",
+    "test",
+    "application"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.8.1",
+    "pubnub-element": "^4.0.1"
+  }
+}
